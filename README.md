@@ -192,9 +192,9 @@ This automated pipeline enables Sparkify to:
 
 ---
 
-**Technical Lead**: [Your Name]  
-**Project Duration**: [Duration]  
-**Last Updated**: [Date]
+**Technical Lead**: Edward  
+**Project Duration**: 1 week  
+**Last Updated**: July 2025
 
 
 ## References
